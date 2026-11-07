@@ -1,3 +1,4 @@
+# KR2: Hinchagov
 import os
 import socket
 
